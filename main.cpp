@@ -1,3 +1,4 @@
+//https://github.com/flyingwolfz/point-oriented-algorithms-CGH-cuda
 #include <stdio.h>
 #include <stdlib.h>
 #include <cuda.h>
